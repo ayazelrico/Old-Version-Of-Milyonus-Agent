@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/brand/milyonus-wordmark.png" width="660" alt="Milyonus"/>
+<img src="docs/assets/milyonus-wordmark-lg.png" alt="Milyonus" width="640" />
 
 ### ✦ Agent 5.5 — *Remembers. Verifies. Evolves.*
 
@@ -612,10 +612,3 @@ assets in `assets/brand/`.
 <em>ayaz@milyonus.com </em>
  
 </div>
-
-
-
-
-
-
-
